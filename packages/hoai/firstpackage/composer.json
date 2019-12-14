@@ -1,0 +1,15 @@
+{
+    "name": "hoai/firstpackage",
+    "authors": [
+        {
+            "name": "Hoai",
+            "email": "lamthanhhoai1990@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "hoai\\firstpackage\\": "src/"
+        }
+    }
+}
