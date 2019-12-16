@@ -166,7 +166,7 @@ return [
          * Package Service Providers...
          */
 
-	    hoai\firstpackage\FirstPackageServiceProvider::class,
+	    Hoai\FirstPackage\FirstPackageServiceProvider::class,
 
         /*
          * Application Service Providers...

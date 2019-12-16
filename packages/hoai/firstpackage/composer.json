@@ -6,10 +6,5 @@
             "email": "lamthanhhoai1990@gmail.com"
         }
     ],
-    "require": {},
-    "autoload": {
-        "psr-4": {
-            "hoai\\firstpackage\\": "src/"
-        }
-    }
+    "require": {}
 }
